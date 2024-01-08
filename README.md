@@ -4,6 +4,7 @@
 2. x.xx should be change to your appropriate version.
 
 Example for the Demultiplexing step using qcat:
+
 Adapters detected in 51497 of 52856 reads
   NBD104/NBD114  51497: |  ################### |  97.43 %
            none    805: |                      |   1.52 %
